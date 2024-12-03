@@ -1,0 +1,86 @@
+﻿Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Installing service MyBdUpdate...
+Service MyBdUpdate has been successfully installed.
+Creating EventLog source MyBdUpdate in log Application...
+Committing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Uninstalling assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Removing EventLog source MyBdUpdate.
+Service MyBdUpdate is being removed from the system...
+Service MyBdUpdate was successfully removed from the system.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Installing service MyBdUpdate...
+Service MyBdUpdate has been successfully installed.
+Creating EventLog source MyBdUpdate in log Application...
+Committing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Uninstalling assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Removing EventLog source MyBdUpdate.
+Service MyBdUpdate is being removed from the system...
+Service MyBdUpdate was successfully removed from the system.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Installing service MyBdUpdate...
+Service MyBdUpdate has been successfully installed.
+Creating EventLog source MyBdUpdate in log Application...
+Committing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Uninstalling assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Removing EventLog source MyBdUpdate.
+Service MyBdUpdate is being removed from the system...
+Service MyBdUpdate was successfully removed from the system.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog
+Installing service MyBdUpdate...
+Service MyBdUpdate has been successfully installed.
+Creating EventLog source MyBdUpdate in log Application...
+Committing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService3\bin\Debug\WindowsService3.InstallLog

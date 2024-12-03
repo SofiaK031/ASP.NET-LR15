@@ -1,0 +1,13 @@
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\SignalRClientFramework.exe.config
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\SignalRClientFramework.exe
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\SignalRClientFramework.pdb
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\Newtonsoft.Json.dll
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\Newtonsoft.Json.xml
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\obj\Debug\SignalRClientFramework.csproj.AssemblyReference.cache
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\obj\Debug\SignalRClientFramework.csproj.CoreCompileInputs.cache
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\obj\Debug\SignalRC.4D572FCF.Up2Date
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\obj\Debug\SignalRClientFramework.exe
+D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\obj\Debug\SignalRClientFramework.pdb

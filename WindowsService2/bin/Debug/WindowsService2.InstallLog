@@ -1,0 +1,276 @@
+﻿Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Restoring event log to previous state for source Service1.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service2...
+Service Service2 has been successfully installed.
+Creating EventLog source Service2 in log Application...
+Committing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Uninstalling assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Removing EventLog source Service2.
+Service Service2 is being removed from the system...
+Service Service2 was successfully removed from the system.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service2...
+Service Service2 has been successfully installed.
+Creating EventLog source Service2 in log Application...
+Committing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service2...
+Creating EventLog source Service2 in log Application...
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Restoring event log to previous state for source Service2.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service2...
+Creating EventLog source Service2 in log Application...
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Restoring event log to previous state for source Service2.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service2...
+Creating EventLog source Service2 in log Application...
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Restoring event log to previous state for source Service2.
+Uninstalling assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Removing EventLog source Service2.
+Service Service2 is being removed from the system...
+Service Service2 was successfully removed from the system.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service2...
+Creating EventLog source Service2 in log Application...
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Restoring event log to previous state for source Service2.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service2...
+Creating EventLog source Service2 in log Application...
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Restoring event log to previous state for source Service2.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service2...
+Service Service2 has been successfully installed.
+Creating EventLog source Service2 in log Application...
+Committing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Uninstalling assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Removing EventLog source Service2.
+Service Service2 is being removed from the system...
+Service Service2 was successfully removed from the system.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service Service2...
+Service Service2 has been successfully installed.
+Creating EventLog source Service2 in log Application...
+Committing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Uninstalling assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Removing EventLog source Service2.
+Service Service2 is being removed from the system...
+Service Service2 was successfully removed from the system.
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Rolling back assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog
+Installing service MyBackupService...
+Service MyBackupService has been successfully installed.
+Creating EventLog source MyBackupService in log Application...
+Committing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService2\bin\Debug\WindowsService2.InstallLog

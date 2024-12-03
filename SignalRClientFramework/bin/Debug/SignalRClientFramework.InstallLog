@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\SignalRClientFramework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\SignalRClientFramework.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\SignalRClientFramework.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\SignalRClientFramework.exe assembly.
+Committing assembly 'D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\SignalRClientFramework.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\SignalRClientFramework.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\SignalRClientFramework.InstallLog
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the D:\Sofia K\ASP.NET\LR15\SignalRClientFramework\bin\Debug\SignalRClientFramework.exe assembly.
+Remove InstallState file because there are no installers.

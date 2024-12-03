@@ -1,0 +1,13 @@
+﻿Installing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService4\bin\Debug\WindowsService4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService4\bin\Debug\WindowsService4.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService4\bin\Debug\WindowsService4.InstallLog
+Installing service ServiceGetCryptoInfo...
+Service ServiceGetCryptoInfo has been successfully installed.
+Creating EventLog source ServiceGetCryptoInfo in log Application...
+Committing assembly 'D:\Sofia K\ASP.NET\LR15\WindowsService4\bin\Debug\WindowsService4.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\Sofia K\ASP.NET\LR15\WindowsService4\bin\Debug\WindowsService4.exe
+   logfile = D:\Sofia K\ASP.NET\LR15\WindowsService4\bin\Debug\WindowsService4.InstallLog
